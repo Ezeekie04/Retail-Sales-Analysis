@@ -91,7 +91,7 @@ The primary objective is to build a linear regression model to predict weekly sa
 
 - **Portfolio 1.ipynb**: Main analysis notebook.
 - **README.md**: Documentation for the project.
-- **Data**: Folder containing the datasets (not included in the repository for confidentiality).
+- **Datasets**: (https://www.kaggle.com/datasets/manjeetsingh/retaildataset)
 
 ---
 
