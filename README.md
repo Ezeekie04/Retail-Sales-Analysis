@@ -60,7 +60,7 @@ The primary objective is to build a linear regression model to predict weekly sa
 
 1. Clone this repository:
    ```bash
-   git clone [repository_link]
+   git clone https://github.com/Ezeekie04/Retail-Sales-Analysis
    ```
 
 2. Install the required dependencies:
