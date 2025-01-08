@@ -42,10 +42,12 @@ The primary objective is to build a linear regression model to predict weekly sa
 ## Results
 
 - **Model Evaluation**:
-  - Root Mean Squared Error (RMSE): 21754.568901568076
+  - Root Mean Squared Error (RMSE): 21754.57
+    
   This value indicates the average error (in the same units as the target variable, "Weekly Sales") between the predicted    and actual values. In this case, the model's predictions deviate by approximately 21,754 units of weekly sales on   average. A lower RMSE is better, but this figure should be interpreted in the context of the data's range and variance.
 
-  - R² Score: 0.09244948509722295
+  - R² Score: 0.0924
+    
   This value explains the proportion of variance in the target variable (Weekly Sales) that is explained by the model. Here, approximately 9.24% of the variation in weekly sales is captured by the model, suggesting that the current model is not highly predictive. Improvements, such as incorporating more features or using a more complex model, could be explored.
 
 - **Key Insights**:
